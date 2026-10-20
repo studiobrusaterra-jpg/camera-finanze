@@ -1,0 +1,39 @@
+name: Aggiorna feed Commissione VI Finanze
+
+on:
+  schedule:
+    # orari UTC: 07:47 e 18:47 in Italia d'inverno, 08:47 e 19:47 d'estate
+    - cron: "47 6 * * 1-6"
+    - cron: "47 17 * * 1-6"
+  workflow_dispatch:        # permette di lanciarlo a mano dal tab "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: pip install requests beautifulsoup4
+
+      - name: Leggi la Camera e genera i feed
+        run: python camera_feed.py
+
+      - name: Salva i feed aggiornati
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Nessuna novità."
+          else
+            git commit -m "Aggiornamento feed $(date -u +'%Y-%m-%d %H:%M')"
+            git push
+          fi
