@@ -216,6 +216,25 @@
     ]
    ],
    "visto": "2026-10-20T12:57:17+00:00"
+  },
+  "seduta-2026-10-21-com06": {
+   "data": "2026-10-21",
+   "etichetta": "Mercoledì 21 ottobre 2026",
+   "riunite": "",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=10&giorno=21&view=filtered&idCommissione=06",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=10&giorno=21&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=10&giorno=21&file=leg.19.bol0751.data20261021.com06",
+   "punti": [
+    [
+     "",
+     "Variazione nella composizione della Commissione;"
+    ],
+    [
+     "Sede Referente",
+     "DL 162/2026: Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale. C. 3106 Governo (Seguito dell'esame e rinvio);"
+    ]
+   ],
+   "visto": "2026-10-22T07:30:01+00:00"
   }
  }
 }
