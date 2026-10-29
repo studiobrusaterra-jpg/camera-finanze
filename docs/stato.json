@@ -235,6 +235,29 @@
     ]
    ],
    "visto": "2026-10-22T07:30:01+00:00"
+  },
+  "seduta-2026-10-28-com06": {
+   "data": "2026-10-28",
+   "etichetta": "Mercoledì 28 ottobre 2026",
+   "riunite": "",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=10&giorno=28&view=filtered&idCommissione=06",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=10&giorno=28&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=10&giorno=28&file=leg.19.bol0755.data20261028.com06",
+   "punti": [
+    [
+     "Sede Consultiva",
+     "DL 157/2026: Disposizioni urgenti in materia di prezzi petroliferi connessi al protrarsi della nuova crisi dei mercati internazionali e di infrastrutture e attività energetiche strategiche. C. 3148 Governo, approvato dal Senato. (Parere alle Commissioni VIII e X) (Esame, ai sensi dell'articolo 73, comma 1-bis, del Regolamento, per gli aspetti attinenti alla materia tributaria, e conclusione - Parere favorevole);"
+    ],
+    [
+     "Sede Consultiva",
+     "Modifica al decreto legislativo 3 aprile 2006, n. 152, in materia di consorzi di gestione e tutela del territorio e delle acque irrigue. C. 2708 CNEL. (Parere alla VIII Commissione) (Esame e conclusione - Nulla osta);"
+    ],
+    [
+     "Sede Referente",
+     "DL 162/2026: Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale. C. 3106 Governo (Seguito dell'esame e conclusione);"
+    ]
+   ],
+   "visto": "2026-10-29T07:43:56+00:00"
   }
  }
 }
