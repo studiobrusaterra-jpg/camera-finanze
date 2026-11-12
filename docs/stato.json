@@ -364,6 +364,25 @@
     ]
    ],
    "visto": "2026-11-11T07:58:59+00:00"
+  },
+  "seduta-2026-11-11-com06": {
+   "data": "2026-11-11",
+   "etichetta": "Mercoledì 11 novembre 2026",
+   "riunite": "",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=11&view=filtered&idCommissione=06",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=11&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=11&file=leg.19.bol0763.data20261111.com06",
+   "punti": [
+    [
+     "Sede Consultiva",
+     "Bilancio di previsione dello Stato per l'anno finanziario 2027 e bilancio pluriennale per il triennio 2027-2029. C. 3174-bis Governo. (Relazione alla V Commissione) (Seguito dell'esame e conclusione - Relazione favorevole);"
+    ],
+    [
+     "Sede Consultiva",
+     "Divieto di importazione e di pubblicità di beni e servizi provenienti da insediamenti israeliani nel territorio palestinese occupato. C. 2916 Bonelli. (Parere alla III Commissione) (Esame e conclusione - Parere contrario);"
+    ]
+   ],
+   "visto": "2026-11-12T08:00:14+00:00"
   }
  }
 }
