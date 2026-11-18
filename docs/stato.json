@@ -95,6 +95,54 @@
    "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=04&view=filtered&idCommissione=06",
    "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=04&file=leg.19.bol0758.data20261104.com06",
    "visto": "2026-11-05T07:59:43+00:00"
+  },
+  "5-05995@2026-11-17": {
+   "numero": "5-05995",
+   "deputato": "Congedo",
+   "oggetto": "Chiarimenti circa l'applicabilità della riduzione dell'aliquota IRES agli ex IACP",
+   "sede": "INTERROGAZIONI A RISPOSTA IMMEDIATA",
+   "data": "2026-11-17",
+   "etichetta": "Martedì 17 novembre 2026",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=17&file=leg.19.bol0765.data20261117.com06",
+   "visto": "2026-11-18T07:59:39+00:00"
+  },
+  "5-05996@2026-11-17": {
+   "numero": "5-05996",
+   "deputato": "Sottanelli",
+   "oggetto": "Misure per garantire la continuità operativa di Cdp Venture capital Sgr S.p.A",
+   "sede": "INTERROGAZIONI A RISPOSTA IMMEDIATA",
+   "data": "2026-11-17",
+   "etichetta": "Martedì 17 novembre 2026",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=17&file=leg.19.bol0765.data20261117.com06",
+   "visto": "2026-11-18T07:59:39+00:00"
+  },
+  "5-05997@2026-11-17": {
+   "numero": "5-05997",
+   "deputato": "Alifano",
+   "oggetto": "Iniziative normative inerenti al trattamento fiscale dei lavoratori under 35",
+   "sede": "INTERROGAZIONI A RISPOSTA IMMEDIATA",
+   "data": "2026-11-17",
+   "etichetta": "Martedì 17 novembre 2026",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=17&file=leg.19.bol0765.data20261117.com06",
+   "visto": "2026-11-18T07:59:39+00:00"
+  },
+  "5-05998@2026-11-17": {
+   "numero": "5-05998",
+   "deputato": "Merola",
+   "oggetto": "Chiarimenti su conguagli e rimborsi conseguenti alla revisione delle certificazioni uniche 2026 nell'ambito delle prestazioni di welfare aziendale",
+   "sede": "INTERROGAZIONI A RISPOSTA IMMEDIATA",
+   "data": "2026-11-17",
+   "etichetta": "Martedì 17 novembre 2026",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=17&file=leg.19.bol0765.data20261117.com06",
+   "visto": "2026-11-18T07:59:39+00:00"
   }
  },
  "sedute": {
@@ -383,6 +431,21 @@
     ]
    ],
    "visto": "2026-11-12T08:00:14+00:00"
+  },
+  "seduta-2026-11-17-com06": {
+   "data": "2026-11-17",
+   "etichetta": "Martedì 17 novembre 2026",
+   "riunite": "",
+   "indice": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=indice&conTitoli=true&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "allegato": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=allegato&anno=2026&mese=11&giorno=17&view=filtered&idCommissione=06",
+   "pdf": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=pdf&anno=2026&mese=11&giorno=17&file=leg.19.bol0765.data20261117.com06",
+   "punti": [
+    [
+     "Atti del Governo",
+     "Proposta di nomina del dottor Giulio Centemero a componente della Commissione nazionale per le società e la borsa (CONSOB). Nomina n. 148 (Esame, ai sensi dell'articolo 143, comma 4, del Regolamento, e rinvio);"
+    ]
+   ],
+   "visto": "2026-11-18T07:59:39+00:00"
   }
  }
 }
